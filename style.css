@@ -1,1 +1,30 @@
+body{
+    font-family: sans-serif;
+}
 
+header{
+    background-color: black;
+}
+nav a{
+    color:white;
+    text-decoration: none;
+}
+nav{
+    padding: 5px;
+    background-color: black;
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+
+}
+
+footer p{
+    color: white;
+}
+footer{
+    padding: 5px;
+    background-color: black;
+    margin: 5px;
+}
